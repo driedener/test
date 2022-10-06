@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>http://test.com/subtest/</loc>
+         <lastmod>2022-10-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>http://test.com/test/</loc>
          <lastmod>2022-10-06</lastmod>
          <changefreq>daily</changefreq>

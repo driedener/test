@@ -8,6 +8,8 @@ theme:
 site_url: http://test.com
 nav:
     - Home: index.md
-    - Test: test.md
+    - Test:
+      - Sub-Test: 
+        - Sub-Test: subtest.md
     - Product: product.md
 
