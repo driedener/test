@@ -1,0 +1,13 @@
+site_name: Test
+theme:
+  name: material
+  features: 
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+site_url: http://test.com
+nav:
+    - Home: index.md
+    - Test: test.md
+    - Product: product.md
+
